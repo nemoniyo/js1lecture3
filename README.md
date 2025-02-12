@@ -83,3 +83,4 @@ tdzExample();
 Understanding these three concepts—**Hoisting**, **Scope**, and **Temporal Dead Zone (TDZ)**—is essential for mastering JavaScript's behavior and avoiding common pitfalls. Each example above illustrates a key aspect of these concepts, helping you write more predictable and bug-free code.
 
 Feel free to clone this repository and experiment with the examples!
+
